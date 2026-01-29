@@ -5,6 +5,9 @@ This directory contains the homework 6 implementation and tests for:
 - hashing / hash-table utilities and tests ([hash.h](hash.h), [ht.h](ht.h), [hash-check.cpp](hash-check.cpp), [ht-test.cpp](ht-test.cpp), [str-hash-test.cpp](str-hash-test.cpp))
 - a small dictionary file used by the Boggle solver ([dict.txt](dict.txt))
 
+The focus of this assignment was on **data structures, algorithmic efficiency, and correctness**, implemented in modern C++.
+
+---
 Prerequisites
 - A C++ compiler (e.g., g++ / clang++)
 - make
